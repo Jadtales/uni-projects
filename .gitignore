@@ -1,0 +1,5 @@
+project1/backend/vendor/
+project1/backend/.env
+project1/frontend/node_modules/
+project1/frontend/dist/
+.phpunit.result.cache
